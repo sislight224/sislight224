@@ -3,9 +3,9 @@
 
 # About Me
 
-Seasoned developer with hands-on experience of React, Angular, Vue, 2 years of finesse in Reactjs, and a year's expertise in Solidity.
+Seasoned developer with hands-on experience of React, Angular, Vue, 5 years of finesse in Reactjs, and a year's expertise in Solidity.
 And Also I am 3d Website & WebGL & Game Developer.
-Architecting networks for a decade, sculpting database landscapes for 8 years, and weaving WordPress magic as a template and plugin creator for 8 years.
+Architecting networks for a decade, sculpting database landscapes for 11 years, and weaving WordPress magic as a template and plugin creator for 8 years.
 Dedicated to crafting elegant and scalable solutions.
 
 # I am
