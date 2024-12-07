@@ -3,7 +3,7 @@
 
 # About Me
 
-Seasoned developer with hands-on experience of React, Angular, Vue, 5 years of finesse in Reactjs, and a year's expertise in Solidity.
+Seasoned developer with hands-on experience of React, Angular, Vue, 5 years of finesse in Reactjs, and 5 year's expertise in Solidity.
 And Also I am 3d Website & WebGL & Game Developer.
 Architecting networks for a decade, sculpting database landscapes for 11 years, and weaving WordPress magic as a template and plugin creator for 8 years.
 Dedicated to crafting elegant and scalable solutions.
@@ -24,7 +24,7 @@ Dedicated to crafting elegant and scalable solutions.
     🔹   Frontend: React, Vue, Angular, Next, Electron ...
     🔹   Backend: Node.js, Express.js, C++, Java, C#, .NET, Python, PHP...
     🔹   DB: PostgreSQL, MsSQL, MySql, Oracle, MongoDB...
-
+    🔹   BlockChain: Solona, Smart Contract, Solidity, DEX, DAPP...
 # Languages and Tools
 
 <div style="display: flex; align-items: flex-start; align-content: center">  
